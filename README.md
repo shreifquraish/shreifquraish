@@ -1,84 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shreifquraish/shreifquraish/main/Gemini_Generated_Image_oy30cyoy30cyoy30.png" alt="Shreif Quraish Logo" width="90" />
-</p>
-
-<h1 align="center">
-  🎨✨ Shreif Quraish ✨💻
-</h1>
-
-<p align="center">
-  <b>21 years old • Designer & Developer</b><br />
-  Bridging the gap between <b>pixel-perfect design</b> and <b>clean, functional code</b>.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Graphic+Designer;Web+Developer;Mobile+App+Designer;UI%2FUX+Enthusiast" alt="Typing SVG" />
-</p>
-
-<br />
-
----
-
-## 👨‍🎨 About Me
-
-I'm **Shreif Quraish**, a 21-year-old multidisciplinary creator from Egypt.  
-I don't just build interfaces — I **design experiences**. My background in graphic design gives me an eye for composition, color theory, and typography, while my development skills turn those designs into real, interactive products.
-
-| What I do | Description |
-| :--- | :--- |
-| 🎨 **Graphic Designer** | Logos, branding, social media visuals, print design |
-| 🌐 **Web Designer** | Responsive, modern, and creative websites |
-| 📱 **Mobile Designer** | Clean UI/UX for iOS & Android apps (Figma + Flutter/React Native) |
-
-> *“Design is not just what it looks like. Design is how it works.” — Steve Jobs*
-
-<br />
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🎯 Design (My Superpower)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-### 💻 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🧰 Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br />
-
----
-
-## 📌 What I'm Currently Working On
-
-- 🔭 Building my **portfolio website** to showcase my best 10 projects.
-- 🌱 Learning **React Native** deeply to publish my first app on Google Play.
-- 🤝 Looking to collaborate with **startups** that need a designer who can code.
-- 📚 Studying advanced **UI/UX principles** to improve my design workflow.
-
-<br />
-
----
-
 ## 💬 What People Say
 
 <table align="center" border="0" cellpadding="20" cellspacing="0">
@@ -97,7 +16,7 @@ I don't just build interfaces — I **design experiences**. My background in gra
           </td>
         </tr>
       </table>
-    </table>
+    </tr>
     <td align="center" valign="top" width="33%">
       <table border="0" cellpadding="15" cellspacing="0" style="border: 1px solid #e1e4e8; border-radius: 16px; background-color: #f6f8fa;">
         <tr>
@@ -112,7 +31,7 @@ I don't just build interfaces — I **design experiences**. My background in gra
           </td>
         </tr>
       </table>
-    </table>
+    </td>
     <td align="center" valign="top" width="33%">
       <table border="0" cellpadding="15" cellspacing="0" style="border: 1px solid #e1e4e8; border-radius: 16px; background-color: #f6f8fa;">
         <tr>
@@ -124,46 +43,9 @@ I don't just build interfaces — I **design experiences**. My background in gra
             <p align="center" style="font-style: italic; font-size: 15px; max-width: 250px; color: #24292e;">
               “بصراحة شغل محترم جداً 👏 واضح مجهود كبير، ربنا يوفقكم دايماً”
             </p>
-          </td>
+          </table>
         </tr>
       </table>
     </td>
   </table>
 </table>
-
-<br />
-
----
-
-## 📫 Let's Connect
-
-I'm always open to **freelance projects**, **design collaborations**, or just a nice chat about art & code.
-
-<p align="center">
-  <a href="https://www.behance.net/2d9c19bf" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="https://github.com/shreifquraish" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://shreeif-quraish.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shreif-quraish-b357a8407" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/1DYsGq6V1W/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201556513513" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Code is art, and art is code.” — Shreif Quraish</i>
-  <br />
-  ⭐️ From <a href="https://github.com/shreifquraish">Shreif Quraish</a>
-</p>
