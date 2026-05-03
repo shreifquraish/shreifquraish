@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreifquraish/shreifquraish/main/Gemini_Generated_Image_oy30cyoy30cyoy30p.png" alt="Shreif Quraish Logo" width="90" />
+  <img src="https://raw.githubusercontent.com/shreifquraish/shreifquraish/main/Gemini_Generated_Image_oy30cyoy30cyoy30.png" alt="Shreif Quraish Logo" width="90" />
 </p>
 
 <h1 align="center">
