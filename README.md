@@ -86,13 +86,7 @@ I don't just build interfaces — I **design experiences**. My background in gra
 I'm always open to **freelance projects**, **design collaborations**, or just a nice chat about art & code.
 
 <p align="center">
-  <a href="https://linkedin.com/in/shreif-quraish" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shreif.quraish@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://behance.net/shreifquraish" target="_blank">
+  <a href="https://www.behance.net/2d9c19bf" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="https://github.com/shreifquraish" target="_blank">
