@@ -81,58 +81,49 @@ I don't just build interfaces — I **design experiences**. My background in gra
 
 ## 💬 What People Say
 
-<!-- Testimonial 1 -->
-<table>
+<table align="center" border="0" cellpadding="20" cellspacing="0">
   <tr>
-    <td width="33%" valign="top">
-      <table>
+    <td align="center" valign="top" width="33%">
+      <table border="0" cellpadding="15" cellspacing="0" style="border: 1px solid #e1e4e8; border-radius: 16px; background-color: #f6f8fa;">
         <tr>
-          <td width="60px">
-            <img src="https://randomuser.me/api/portraits/men/32.jpg" width="50" style="border-radius: 50%;" />
-          </td>
-          <td>
-            <b>Ahmed Gamal</b>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <i>"أنا حملت البرامج كلها من موقعك وبجد البرامج فوق الخيال ومبروك على الموقع الجديد"</i>
+          <td align="center">
+            <img src="https://randomuser.me/api/portraits/men/32.jpg" width="70" style="border-radius: 50%; border: 3px solid #2c3e50;" />
+            <br />
+            <h3 style="margin: 10px 0 5px 0;">Ahmed Gamal</h3>
+            <p style="font-size: 14px; color: #586069;">⭐️⭐️⭐️⭐️⭐️</p>
+            <p align="center" style="font-style: italic; font-size: 15px; max-width: 250px; color: #24292e;">
+              “أنا حملت البرامج كلها من موقعك وبجد البرامج فوق الخيال ومبروك على الموقع الجديد”
+            </p>
           </td>
         </tr>
       </table>
     </td>
-    <!-- Testimonial 2 -->
-    <td width="33%" valign="top">
-      <table>
+    <td align="center" valign="top" width="33%">
+      <table border="0" cellpadding="15" cellspacing="0" style="border: 1px solid #e1e4e8; border-radius: 16px; background-color: #f6f8fa;">
         <tr>
-          <td width="60px">
-            <img src="https://randomuser.me/api/portraits/women/68.jpg" width="50" style="border-radius: 50%;" />
-          </td>
-          <td>
-            <b>Maria Gerges</b>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <i>"أنا متابعك من ترشيح صحابي ليك وبجد كان عندهم حق إنك مبدع"</i>
+          <td align="center">
+            <img src="https://randomuser.me/api/portraits/women/68.jpg" width="70" style="border-radius: 50%; border: 3px solid #2c3e50;" />
+            <br />
+            <h3 style="margin: 10px 0 5px 0;">Maria Gerges</h3>
+            <p style="font-size: 14px; color: #586069;">⭐️⭐️⭐️⭐️⭐️</p>
+            <p align="center" style="font-style: italic; font-size: 15px; max-width: 250px; color: #24292e;">
+              “أنا متابعك من ترشيح صحابي ليك وبجد كان عندهم حق إنك مبدع”
+            </p>
           </td>
         </tr>
       </table>
     </td>
-    <!-- Testimonial 3 -->
-    <td width="33%" valign="top">
-      <table>
+    <td align="center" valign="top" width="33%">
+      <table border="0" cellpadding="15" cellspacing="0" style="border: 1px solid #e1e4e8; border-radius: 16px; background-color: #f6f8fa;">
         <tr>
-          <td width="60px">
-            <img src="https://randomuser.me/api/portraits/women/45.jpg" width="50" style="border-radius: 50%;" />
-          </td>
-          <td>
-            <b>Mervat Amin</b>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <i>"بصراحة شغل محترم جداً 👏 واضح مجهود كبير، ربنا يوفقكم دايماً"</i>
+          <td align="center">
+            <img src="https://randomuser.me/api/portraits/women/45.jpg" width="70" style="border-radius: 50%; border: 3px solid #2c3e50;" />
+            <br />
+            <h3 style="margin: 10px 0 5px 0;">Mervat Amin</h3>
+            <p style="font-size: 14px; color: #586069;">⭐️⭐️⭐️⭐️⭐️</p>
+            <p align="center" style="font-style: italic; font-size: 15px; max-width: 250px; color: #24292e;">
+              “بصراحة شغل محترم جداً 👏 واضح مجهود كبير، ربنا يوفقكم دايماً”
+            </p>
           </td>
         </tr>
       </table>
