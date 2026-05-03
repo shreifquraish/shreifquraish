@@ -56,7 +56,7 @@ I don’t just build interfaces — I **design experiences**. My background in g
 ## 📈 GitHub Stats (Optional but professional)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreif-quraish&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?shreifquraish=shreif-quraish&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreif-quraish&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
