@@ -79,7 +79,70 @@ I don't just build interfaces — I **design experiences**. My background in gra
 
 ---
 
+## 💬 What People Say
 
+<!-- Testimonial 1 -->
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <table>
+        <tr>
+          <td width="60px">
+            <img src="https://randomuser.me/api/portraits/men/32.jpg" width="50" style="border-radius: 50%;" />
+          </td>
+          <td>
+            <b>Ahmed Gamal</b>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <i>"أنا حملت البرامج كلها من موقعك وبجد البرامج فوق الخيال ومبروك على الموقع الجديد"</i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Testimonial 2 -->
+    <td width="33%" valign="top">
+      <table>
+        <tr>
+          <td width="60px">
+            <img src="https://randomuser.me/api/portraits/women/68.jpg" width="50" style="border-radius: 50%;" />
+          </td>
+          <td>
+            <b>Maria Gerges</b>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <i>"أنا متابعك من ترشيح صحابي ليك وبجد كان عندهم حق إنك مبدع"</i>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Testimonial 3 -->
+    <td width="33%" valign="top">
+      <table>
+        <tr>
+          <td width="60px">
+            <img src="https://randomuser.me/api/portraits/women/45.jpg" width="50" style="border-radius: 50%;" />
+          </td>
+          <td>
+            <b>Mervat Amin</b>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <i>"بصراحة شغل محترم جداً 👏 واضح مجهود كبير، ربنا يوفقكم دايماً"</i>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
 
 ## 📫 Let's Connect
 
@@ -105,6 +168,7 @@ I'm always open to **freelance projects**, **design collaborations**, or just a 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
 ---
 
 <p align="center">
