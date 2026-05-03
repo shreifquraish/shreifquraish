@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG (اختياري لكن يضيف حيوية) -->
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Graphic+Designer;Web+Developer;Mobile+App+Designer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 
@@ -14,7 +14,7 @@
 ## 👨‍🎓 About Me
 
 I’m **Shreif Quraish**, a 21-year-old multidisciplinary creator from Egypt.  
-I don’t just build interfaces — I **design experiences**. My background in graphic design gives me an eye for composition, color theory, and typography, while my development skills turn those designs into real, interactive products.
+I don't just build interfaces — I **design experiences**. My background in graphic design gives me an eye for composition, color theory, and typography, while my development skills turn those designs into real, interactive products.
 
 - 🎨 **Graphic Designer** → Logos, branding, social media visuals, print.
 - 🌐 **Web Designer** → Responsive, modern, and creative websites.
@@ -53,18 +53,18 @@ I don’t just build interfaces — I **design experiences**. My background in g
 
 <br/>
 
-## 📈 GitHub Stats (Optional but professional)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?shreifquraish=shreif-quraish&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreif-quraish&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreifquraish&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreifquraish&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <br/>
 
 ## 📫 Let's Connect
 
-I’m always open to **freelance projects**, **design collaborations**, or just a nice chat about art & code.
+I'm always open to **freelance projects**, **design collaborations**, or just a nice chat about art & code.
 
 <p align="left">
   <a href="https://linkedin.com/in/shreif-quraish" target="_blank">
@@ -86,5 +86,5 @@ I’m always open to **freelance projects**, **design collaborations**, or just 
 <p align="center">
   <i>“Code is art, and art is code.” — Shreif Quraish</i>
   <br/>
-  ⭐️ From <a href="https://github.com/shreif-quraish">Shreif Quraish</a>
+  ⭐️ From <a href="https://github.com/shreifquraish">Shreif Quraish</a>
 </p>
