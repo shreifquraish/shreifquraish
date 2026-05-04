@@ -21,8 +21,14 @@
 
 ## 👨‍🎨 About Me
 
-I'm **Shreif Quraish**, a 21-year-old multidisciplinary creator from Egypt.  
-I don't just build interfaces — I **design experiences**. My background in graphic design gives me an eye for composition, color theory, and typography, while my development skills turn those designs into real, interactive products.
+I am **Shreif Quraish**, a 21-year-old multidisciplinary professional from Damietta, Egypt, with 3 years of experience in **Web Development**, **Software Engineering**, and **Graphic Design**. I specialize in merging technical logic with creative vision to deliver high-quality digital products.
+
+Leveraging **VS Code** for development and the **Adobe Creative Suite** for design, I have successfully delivered:
+- ✅ **10 Android applications**
+- ✅ **6 websites**
+- ✅ **20+ graphic design projects**
+
+My focus remains on precision and excellence, ensuring every result is perfectly tailored to your requirements.
 
 | What I do | Description |
 | :--- | :--- |
@@ -30,7 +36,7 @@ I don't just build interfaces — I **design experiences**. My background in gra
 | 🌐 **Web Designer** | Responsive, modern, and creative websites |
 | 📱 **Mobile Designer** | Clean UI/UX for iOS & Android apps (Figma + Flutter/React Native) |
 
-> *“Design is not just what it looks like. Design is how it works.” — Steve Jobs*
+> *"Design is not just what it looks like. Design is how it works." — Steve Jobs*
 
 <br />
 
@@ -68,12 +74,23 @@ I don't just build interfaces — I **design experiences**. My background in gra
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreifquraish&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreifquraish&theme=dark" width="48%" />
+</p>
+
+<br />
+
+---
+
 ## 📌 What I'm Currently Working On
 
-- 🔭 Building my **portfolio website** to showcase my best 10 projects.
-- 🌱 Learning **React Native** deeply to publish my first app on Google Play.
-- 🤝 Looking to collaborate with **startups** that need a designer who can code.
-- 📚 Studying advanced **UI/UX principles** to improve my design workflow.
+- 🔭 Building my **portfolio website** to showcase my best 10 projects
+- 🌱 Learning **React Native** deeply to publish my first app on Google Play
+- 🤝 Looking to collaborate with **startups** that need a designer who can code
+- 📚 Studying advanced **UI/UX principles** to improve my design workflow
 
 <br />
 
@@ -97,7 +114,7 @@ I don't just build interfaces — I **design experiences**. My background in gra
           </td>
         </tr>
       </table>
-    </td>
+    </table>
   </tr>
   <tr>
     <td align="center">
@@ -131,9 +148,22 @@ I don't just build interfaces — I **design experiences**. My background in gra
           </td>
         </tr>
       </table>
-    </td>
+    </table>
   </tr>
 </table>
+
+<br />
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [Portfolio Website](#) | HTML, CSS, JS | Personal portfolio showcasing my best work |
+| [Coming Soon](#) | React, Tailwind | Under development |
+| [Coming Soon](#) | Flutter, Firebase | Under development |
+
 <br />
 
 ---
@@ -166,7 +196,7 @@ I'm always open to **freelance projects**, **design collaborations**, or just a 
 ---
 
 <p align="center">
-  <i>“Code is art, and art is code.” — Shreif Quraish</i>
+  <i>"Code is art, and art is code." — Shreif Quraish</i>
   <br />
   ⭐️ From <a href="https://github.com/shreifquraish">Shreif Quraish</a>
 </p>
