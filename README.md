@@ -156,17 +156,7 @@ My focus remains on precision and excellence, ensuring every result is perfectly
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| [Portfolio Website](#) | HTML, CSS, JS | Personal portfolio showcasing my best work |
-| [Coming Soon](#) | React, Tailwind | Under development |
-| [Coming Soon](#) | Flutter, Firebase | Under development |
-
-<br />
-
----
 
 ## 📫 Let's Connect
 
