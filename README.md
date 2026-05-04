@@ -114,7 +114,7 @@ My focus remains on precision and excellence, ensuring every result is perfectly
           </td>
         </tr>
       </table>
-    </table>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -143,12 +143,12 @@ My focus remains on precision and excellence, ensuring every result is perfectly
             <h3>Maria Gerges</h3>
             <p style="font-size: 14px; color: #586069;">⭐️⭐️⭐️⭐️⭐️</p>
             <p align="center" style="font-style: italic; max-width: 260px;">
-              “أنا متابعاك من ترشيح صحابي ليك وبجد كان عندهم حق إنك مبدع”
+              “أنا متابعك من ترشيح صحابي ليك وبجد كان عندهم حق إنك مبدع”
             </p>
           </td>
         </tr>
       </table>
-    </table>
+    </td>
   </tr>
 </table>
 
