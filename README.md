@@ -143,7 +143,7 @@ My focus remains on precision and excellence, ensuring every result is perfectly
             <h3>Maria Gerges</h3>
             <p style="font-size: 14px; color: #586069;">⭐️⭐️⭐️⭐️⭐️</p>
             <p align="center" style="font-style: italic; max-width: 260px;">
-              “أنا متابعك من ترشيح صحابي ليك وبجد كان عندهم حق إنك مبدع”
+              “أنا متابعاك من ترشيح صحابي ليك وبجد كان عندهم حق إنك مبدع”
             </p>
           </td>
         </tr>
