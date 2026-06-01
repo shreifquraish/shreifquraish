@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreifquraish/shreifquraish/main/logo.jpeg" alt="Shreif Quraish Logo" width="90" />
+  <img src="https://raw.githubusercontent.com/shreifquraish/shreifquraish/main/logoo.png" alt="Shreif Quraish Logo" width="90" />
 </p>
 
 <h1 align="center">
